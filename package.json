@@ -8,5 +8,18 @@
   },
   "keywords": [],
   "author": "LEBEDEV",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.31.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.31.0"
+  },
+  "bundledDependencies": {}
 }
