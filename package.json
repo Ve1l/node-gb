@@ -10,7 +10,9 @@
   "author": "LEBEDEV",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.2",
+    "yargs": "^17.1.0"
   },
   "devDependencies": {
     "eslint": "^7.31.0",
